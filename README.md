@@ -8,13 +8,13 @@ now to showcase  this data i used a neo6mnv2 gps that utilizes ublox gps chip to
 now what exactly does my upload.py file do??
  it checks if the device is connected to the internet by pinging 8.8.8.8 (google's dns server) and if it is online then it pushes all the csv data to a mongodb backend server deployed on render otherwise it waits for the device to come online 
 
- Hardware USED:
-    RPI 2b+ (main processing and controlling)
-    arduino leonardo (Takes all the sensor readings)
-    5x ultrasonic sensors
-    1 usb webcam
-    rpi 3.5inch tft display
-    neo6mnv2 gps sensor
+ Hardware USED:  
+    RPI 2b+ (main processing and controlling),
+    arduino leonardo (Takes all the sensor readings),
+    5x ultrasonic sensors,
+    1 usb webcam,
+    rpi 3.5inch tft display,
+    neo6mnv2 gps sensor,
     mpu6050 accelerometer/gyroscope
     
     
