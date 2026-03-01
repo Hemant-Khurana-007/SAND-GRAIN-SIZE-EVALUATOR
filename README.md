@@ -48,7 +48,9 @@ Dune beaches have uneven surfaces. To approximate a virtual flat plane:
 - Distance readings are stored in an array.
 - The median of readings is calculated.
 - Only values within the range:
-&emsp; median / 1.5 to median * 1.5 are considered valid.
+    ```
+    median / 1.5  to  median * 1.5
+    ```
 - The mean of filtered readings is computed.
 - Image capture is allowed only if the mean distance lies between 9 cm and 11 cm.
 
