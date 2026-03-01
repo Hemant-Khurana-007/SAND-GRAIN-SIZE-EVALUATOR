@@ -217,6 +217,7 @@ cd SAND-GRAIN-SIZE-EVALUATOR
 - Mobile dashboard interface  
 - 3D grain reconstruction  
 
-##Authors
+---
+## Authors
 - Hemant Khurana
 - Ashutosh Mishra
