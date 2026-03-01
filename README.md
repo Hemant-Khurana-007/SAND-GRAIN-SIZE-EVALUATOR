@@ -216,3 +216,7 @@ cd SAND-GRAIN-SIZE-EVALUATOR
 - Automated beach classification  
 - Mobile dashboard interface  
 - 3D grain reconstruction  
+
+##Authors
+- Hemant Khurana
+- Ashutosh Mishra
